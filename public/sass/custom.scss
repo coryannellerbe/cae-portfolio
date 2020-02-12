@@ -1,0 +1,26 @@
+// Custom.scss
+// Option A: Include all of Bootstrap
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+// Overrides 
+
+// Typography
+
+$font-primary: "arial", sans-serif;
+$font-secondary: "georgia", serif;
+
+$brand-primary: #ce93d8;
+$brand-footer: #80deea;
+
+$brand-color-1: #ce93d8 !default;
+$brand-color-2: #80deea !default;
+$brand-color-3: #ffc4ff !default;
+$brand-color-4: #b4ffff !default;
+$brand-color-5: #9c64a6 !default;
+$brand-color-6: #4bacb8 !default;
+
+
+
+
+
